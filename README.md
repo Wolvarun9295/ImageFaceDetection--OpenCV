@@ -12,6 +12,7 @@ $ sudo apt-get install python3-pip
 $ sudo pip3 install opencv-python
 ```
 - [**OpenCV Haarcascades Data**](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+***(No need to download the file, just for reference)***
 #
 ## Steps to run the code:
 - Just replace the path of image and run the **detector.py** file.
