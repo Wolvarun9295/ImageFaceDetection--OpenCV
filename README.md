@@ -19,6 +19,7 @@ Just replace the path of image and run the **detector.py** file.
 **The following shows the output of this code:**<br>
 
 <img src='images/output.jpg' height='500'>
+
 #
 ## References:
 - [FACIAL DETECTION in just 2 LINES of CODE with face_recognition library in PYTHON - Code Bear](https://youtu.be/rRYg-61GB0M)
