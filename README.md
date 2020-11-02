@@ -16,7 +16,7 @@ $ sudo pip3 install opencv-python
 ## Steps to run the code:
 Just replace the path of image and run the **detector.py** file.
 
-**The following shows the Output:**
+**The following shows the Output:**<br>
 <img src='images/output.jpg' height='500'>
 #
 ## References:
